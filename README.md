@@ -1,1 +1,48 @@
-# LAVGpython-PA-2
+# Welcome to LAVGs Python Code for PA 2
+
+# Problem Assignment 2
+
+1. #Normalization Problem
+-**Purpose:** This function generates random arrays and normalizes it
+
+-**Details:**
+  - Random array is normalized
+
+-**Example:**
+Random Array:
+[[0.54322014 0.07503974 0.31215981 0.30368134 0.29942424]
+ [0.0310082  0.6477148  0.78839074 0.48988217 0.26915997]
+ [0.89041789 0.77372945 0.5181644  0.54768466 0.46834179]
+ [0.99147435 0.24444809 0.81855034 0.59710114 0.09941021]
+ [0.36947178 0.64088981 0.79610061 0.86497205 0.07237211]]
+
+Normalized Array:
+[[ 0.16257479 -1.52481452 -0.67019976 -0.70075741 -0.7161006 ]
+ [-1.68351051  0.53918851  1.04620479 -0.02966291 -0.82517735]
+ [ 1.41392527  0.99336338  0.07227031  0.17866557 -0.10729751]
+ [ 1.77814724 -0.91424251  1.1549043   0.35676963 -1.43697983]
+ [-0.46363923  0.51459028  1.07399227  1.32221481 -1.53442902]]
+
+ 2. #Divisible by 3 Problem
+  -**Purpose:** This prints positive integers that are divisible by 3
+
+-**Details:**
+  - First 100 positive integers are generated
+  - The integers divisible by 3 within the first 100 positive integers are taken and printed as a result
+
+-**Example:**
+Array of Squares of First 100 Positive Integers:
+[    1     4     9    16    25    36    49    64    81   100   121   144
+   169   196   225   256   289   324   361   400   441   484   529   576
+   625   676   729   784   841   900   961  1024  1089  1156  1225  1296
+  1369  1444  1521  1600  1681  1764  1849  1936  2025  2116  2209  2304
+  2401  2500  2601  2704  2809  2916  3025  3136  3249  3364  3481  3600
+  3721  3844  3969  4096  4225  4356  4489  4624  4761  4900  5041  5184
+  5329  5476  5625  5776  5929  6084  6241  6400  6561  6724  6889  7056
+  7225  7396  7569  7744  7921  8100  8281  8464  8649  8836  9025  9216
+  9409  9604  9801 10000]
+
+Array of Squares of First 100 Positive Integers showing only numbers that are Divisible by 3:
+[   9   36   81  144  225  324  441  576  729  900 1089 1296 1521 1764
+ 2025 2304 2601 2916 3249 3600 3969 4356 4761 5184 5625 6084 6561 7056
+ 7569 8100 8649 9216 9801]
