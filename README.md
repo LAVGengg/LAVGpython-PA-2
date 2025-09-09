@@ -9,6 +9,7 @@
   - Random array is normalized
 
 -**Example:**
+
 Random Array:
 [[0.54322014 0.07503974 0.31215981 0.30368134 0.29942424]
  [0.0310082  0.6477148  0.78839074 0.48988217 0.26915997]
@@ -31,6 +32,7 @@ Normalized Array:
   - The integers divisible by 3 within the first 100 positive integers are taken and printed as a result
 
 -**Example:**
+
 Array of Squares of First 100 Positive Integers:
 [    1     4     9    16    25    36    49    64    81   100   121   144
    169   196   225   256   289   324   361   400   441   484   529   576
