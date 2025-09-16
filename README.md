@@ -2,7 +2,7 @@
 
 # Problem Assignment 2
 
-1. #Normalization Problem
+1. # Normalization Problem
 -**Purpose:** This function generates random arrays and normalizes it
 
 -**Details:**
@@ -26,7 +26,7 @@ Normalized Array:
  [ 1.77814724 -0.91424251  1.1549043   0.35676963 -1.43697983]
  [-0.46363923  0.51459028  1.07399227  1.32221481 -1.53442902]]
 
- 2. #Divisible by 3 Problem
+ 2. # Divisible by 3 Problem
   -**Purpose:** This prints positive integers that are divisible by 3
 
 -**Details:**
